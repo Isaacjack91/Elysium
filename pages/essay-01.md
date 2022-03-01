@@ -8,6 +8,8 @@ permalink: /essay-01.html
 
 # The Great Multi Media Thing
 
+This is really quite an *overwhelming* medium. I have a **lot** to learn with this tool!
+
 ## Introduction
 
 Here's some sample text, written in Markdown.
