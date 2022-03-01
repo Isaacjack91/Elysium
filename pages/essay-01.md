@@ -9,6 +9,14 @@ permalink: /essay-01.html
 # The Great Multi Media Thing
 
 This is really quite an *overwhelming* medium. I have a **lot** to learn with this tool!
+[What does the fox say?](https://www.youtube.com/watch?v=jofNR_WkoCE)
+
+What does the fox say?
+
+1. Beep Boop
+2. Skeet Skeet 
+3. Yeet Yeet
+4. Ort Tort
 
 ## Introduction
 
