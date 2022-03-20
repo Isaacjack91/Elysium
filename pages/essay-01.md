@@ -8,6 +8,9 @@ permalink: /essay-01.html
 
 # The Great Multi Media Thing
 
+{% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %}
+The State of the Union Adresses in the 20th century reflect the major issues of their time... Most notably, WWII. It is very evident from mid 30's to lat 40's that war was a important topic to be discussed and considered. 
+
 This is really quite an *overwhelming* medium. I have a **lot** to learn with this tool!
 [What does the fox say?](https://www.youtube.com/watch?v=jofNR_WkoCE)
 
