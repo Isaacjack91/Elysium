@@ -32,6 +32,10 @@ Font can be *Italic* or **Bold**.
 
 Citing your work is important! [^1]
 
+---
+
+[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
+
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
 # Heading One
@@ -57,7 +61,7 @@ A numbered list is created using a number + `.`, like:
 
 A horizontal line break can be useful for separating content:
 
-----
+---
 
 Include an image:
 
