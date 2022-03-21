@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # The Great Multi Media Thing
 
@@ -42,7 +42,7 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 ## Heading Two
 
-### Heading Three, etc.
+### My First Subheading
 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
