@@ -11,7 +11,7 @@ permalink: /essay-01.html
 {% include feature/image.html filename="20thcentury-1945.2000-wordcloud-voyant.png" alt=" image of a word cloud generated from 20th century State of the Union Addresses from the years 1900-1944" caption="State of the Union 20th century word cloud" width="75" link="https://voyant-tools.org/?corpus=5e6bd3fd4853555444a23db6390691c0" %}
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %}
-The State of the Union Adresses in the 20th century reflect the major issues of their time... Most notably, WWII. It is very evident from mid 30's to lat 40's that war was a important topic to be discussed and considered. [
+The State of the Union Adresses in the 20th century reflect the major issues of their time... Most notably, WWII. It is very evident from mid 30's to lat 40's that war was a important topic to be discussed and considered.
 
 This is really quite an *overwhelming* medium. I have a **lot** to learn with this tool!
 [What does the fox say?](https://www.youtube.com/watch?v=jofNR_WkoCE)
