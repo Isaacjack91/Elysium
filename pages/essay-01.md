@@ -34,7 +34,7 @@ Citing your work is important! [^1]
 
 ---
 
-[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
+[GitHub Help](https://help.github.com/){:target="_blank"rel="noopener"}
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
