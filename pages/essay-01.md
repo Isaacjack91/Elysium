@@ -9,7 +9,7 @@ permalink: /essay-01.html
 # The Great Multi Media Thing
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %}
-The State of the Union Adresses in the 20th century reflect the major issues of their time... Most notably, WWII. It is very evident from mid 30's to lat 40's that war was a important topic to be discussed and considered. 
+The State of the Union Adresses in the 20th century reflect the major issues of their time... Most notably, WWII. It is very evident from mid 30's to lat 40's that war was a important topic to be discussed and considered. [
 
 This is really quite an *overwhelming* medium. I have a **lot** to learn with this tool!
 [What does the fox say?](https://www.youtube.com/watch?v=jofNR_WkoCE)
@@ -73,4 +73,4 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 ## Notes
 
-[^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
+[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
