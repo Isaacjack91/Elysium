@@ -28,7 +28,7 @@ What does the fox say?
 The United States has long toted the character of savior and safe haven. It has claimed to act as a shield for freedom and democratic principles, foreign and domestic.
 How, then, is it's behavior measured? If by its own paradigm, than doesn't it seem to crumble in the face of so many afflicted and margenalized peoples? The 20th
 century is a time rife with opportunistic and underhanded policy making in the United States. It is a century that is testimony to an established power base who
-demonstrate racist and xenophobic leadership in order to maintain a status quo. From the Columbian Exposition through 
+demonstrate racist and xenophobic leadership in order to maintain a status quo. From the Columbian Exposition through WWII and beyond.
 
 Here's some sample text, written in Markdown.
 In Markdown, any text with no empty lines between will become a paragraph.
