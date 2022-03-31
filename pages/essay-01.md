@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
-# The Cost of Freedom and the Struggle for Equality - African American Civil Rights
+# The Cost of Freedom and the Struggle for Equality - African American Civil Rights in the 20th Century
 
 {% include feature/image.html filename="20th-century-state-of-the-union-adresses.png" alt="20th Century State of the Union Addresses word cloud" caption="20th Century State of the Union Addresses" %}
 
