@@ -6,8 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Columbian Exposition;Buffalo Soldiers;Civil Rights and New Freedoms;Conclusion;Notes" %}
 
-# The Cost of Freedom and the Struggle for Equality 
-## African American Civil Rights in the 20th Century
+# The Cost of Freedom and the Struggle for Equality - African American Civil Rights in the 20th Century
 
 {% include feature/image.html filename="20th-century-state-of-the-union-adresses.png" alt="20th Century State of the Union Addresses word cloud" caption="20th Century State of the Union Addresses" %}
 
@@ -30,14 +29,10 @@ Citing your work is important! [^1]
 
 Event that excluded black americans in the 1890s
 
----
-
 # Buffalo Soldiers
 
 African American soliders served in Spanish American war and WWI and were promised certain things which were not followed through.
 GI Bill for example was supposed to be expanded to all vets but black American's were excluded. Many fell into poverty after fighting in the war with no support from the government
-
----
 
 # Civil Rights and the New Freedom
 
