@@ -45,9 +45,12 @@ Citing your work is important! [^1]
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
-# Heading One
+# Columbian Exposition
+Event that excluded black americans in the 1890s
 
-## Heading Two
+# Buffalo Soldiers
+African American soliders served in Spanish American war and WWI and were promised certain things which were not followed through.
+GI Bill for example was supposed to be expanded to all vets but black American's were excluded. Many fell into poverty after fighting in the war with no support from the government
 
 ### My First Subheading
 
